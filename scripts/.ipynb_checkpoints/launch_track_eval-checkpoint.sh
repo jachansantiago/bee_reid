@@ -1,0 +1,21 @@
+
+MODEL_FOLDER=/home/jchan/beeid/notebooks/cmc_experiments/track_models/
+
+# CUDA_VISIBLE_DEVICES=0 python track_eval.py --model_folder ${MODEL_FOLDER}2110260454_tagged_Track_mean_simplecnnv2_convb3_dim_128
+# CUDA_VISIBLE_DEVICES=0 python track_eval.py --model_folder ${MODEL_FOLDER}2110260232_untagged_Track_mean_simplecnnv2_convb3_dim_128
+# CUDA_VISIBLE_DEVICES=0 python track_eval.py --model_folder ${MODEL_FOLDER}2110260212_tagged_augmentataion_Track_mean_simplecnnv2_convb3_dim_128
+# CUDA_VISIBLE_DEVICES=0 python track_eval.py --model_folder ${MODEL_FOLDER}2110252243_untagged_augmentataion_Track_mean_simplecnnv2_convb3_dim_128
+
+
+# CUDA_VISIBLE_DEVICES=0 python track_eval.py --model_folder ${MODEL_FOLDER}2110260907_tagged_untagged_Track_mean_simplecnnv2_convb3_dim_128
+# CUDA_VISIBLE_DEVICES=0 python track_eval.py --model_folder ${MODEL_FOLDER}2110260915_tagged_augmentataion_untagged_augmentataion_Track_mean_simplecnnv2_convb3_dim_128
+
+# CUDA_VISIBLE_DEVICES=0 python track_eval.py --model_folder ${MODEL_FOLDER}2110261941_tagged_track_attention_simplecnnv2_convb3_dim_128
+# CUDA_VISIBLE_DEVICES=0 python track_eval.py --model_folder ${MODEL_FOLDER}2110261639_untagged_track_attention_simplecnnv2_convb3_dim_128
+# CUDA_VISIBLE_DEVICES=0 python track_eval.py --model_folder ${MODEL_FOLDER}2110261615_tagged_augmentataion_track_attention_simplecnnv2_convb3_dim_128
+# CUDA_VISIBLE_DEVICES=0 python track_eval.py --model_folder ${MODEL_FOLDER}2110261353_untagged_augmentataion_track_attention_simplecnnv2_convb3_dim_128
+
+CUDA_VISIBLE_DEVICES=0 python track_eval.py --model_folder ${MODEL_FOLDER}2110262205_tagged_augmentataion_untagged_augmentataion_track_attention_simplecnnv2_convb3_dim_128
+CUDA_VISIBLE_DEVICES=0 python track_eval.py --model_folder ${MODEL_FOLDER}2110262159_tagged_untagged_track_attention_simplecnnv2_convb3_dim_128
+
+

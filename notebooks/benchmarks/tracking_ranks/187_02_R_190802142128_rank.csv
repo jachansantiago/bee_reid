@@ -1,0 +1,7 @@
+,rank,frame_delta,id,gallery_size,query_hasLargeThorax,key_hasLargeThorax
+0,10,340,0,11,False,True
+1,11,360,0,12,False,True
+2,9,380,0,12,False,False
+3,3,420,0,12,False,False
+4,10,440,0,11,False,True
+5,14,460,0,15,False,True
